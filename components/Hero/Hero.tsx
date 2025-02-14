@@ -18,7 +18,7 @@ const Hero = () => {
         </video>
         <div className='absolute z-[100] w-full h-full top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]'>
           <div className='flex items-center justify-center flex-col w-full h-full'>
-             <div>
+             <div data-aos="fade-up">
                 <h1 className='text-[25px] md:text-[36px] lg:text-[45px] mb-4 md:mb-0 text-center tracking-[0.7rem] text-white uppercase font-bold'>
                     Lets enjoy the nature
                 </h1>
